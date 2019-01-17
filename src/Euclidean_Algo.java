@@ -20,5 +20,4 @@ public class Euclidean_Algo {
 		System.out.println(r1);
 
 	}
-
 }
